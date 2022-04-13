@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "553221879218",
+    "firebase_url": "https://watersaver-3a8ae-default-rtdb.firebaseio.com",
+    "project_id": "watersaver-3a8ae",
+    "storage_bucket": "watersaver-3a8ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:553221879218:android:fce51322ec328d026960ab",
+        "android_client_info": {
+          "package_name": "com.example.water_save"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "553221879218-heitb792sjm7aci1cqd24l2a3fqgtuot.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrCUKCE3BUBN1XMelDc8H0tB-DQJ8hJts"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "553221879218-heitb792sjm7aci1cqd24l2a3fqgtuot.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
